@@ -31,3 +31,7 @@ Jeu de morpion (Tic Tac Toe) avec une interface graphique (Tkinter) et une base 
 - Modules nécessaires :
   ```bash
   pip install pymongo
+
+## 📝 Auteur
+
+Souhaliho BAMBA.
