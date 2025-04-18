@@ -9,7 +9,7 @@ Jeu de morpion (Tic Tac Toe) avec une interface graphique (Tkinter) et une base 
 - `main.py` : point d’entrée de l’application.
 - `gui.py` : interface graphique du jeu (Tkinter).
 - `database.py` : gestion des interactions avec MongoDB.
-- *(Fichiers `game_logic.py` et `style.py` à inclure pour le bon fonctionnement si non présents)*
+
 
 ---
 
